@@ -1,0 +1,1 @@
+words = ['manggo', 'orange']
