@@ -6,7 +6,7 @@ def game(choose_game):
     if choose_game == 1:
         import guess_number
     elif choose_game == 2:
-       import rock_paper_scissors
+       import rock_paper_scissor
     elif choose_game == 3:
         import rolling_dice
     else :
