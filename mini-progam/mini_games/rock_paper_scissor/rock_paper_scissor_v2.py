@@ -48,8 +48,7 @@ def match(history, list_choice):
         print('That is not a valid choice.')
 
 def rock_paper_scissor():
-    print('-----------------\nRock-Paper-Scissor\n-----------------')
-    print('Wanna play ?\nYes[1], No[2]')
+    print('-----------------\nRock-Paper-Scissor\n-----------------\nWanna play ?\nYes[1], No[2]')
     menu1 = int(input('Your choice: '))
     history = history_match
     os.system('cls')
