@@ -1,4 +1,5 @@
 import pandas as pd
+import tabulate
 import os
 
 def listing(database):
