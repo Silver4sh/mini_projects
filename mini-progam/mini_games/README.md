@@ -2,15 +2,20 @@
 Berikut adalah script mini-games. 
 </h3>
 
-<p>
+
 List mini-games: <br>
-1. Guess Number: <br> 
-https://github.com/Silver4sh/mini-project/blob/main/mini-progam/mini_games/guess_number.py <br> 
-2. Rock Paper Scissors: <br> 
-https://github.com/Silver4sh/mini-project/blob/main/mini-progam/mini_games/rock_paper_scissors.py <br> 
-3. Rolling Dice: <br> https://github.com/Silver4sh/mini-project/blob/main/mini-progam/mini_games/rolling_dice.py
-</p>
+- Guess Number: <br>
+https://github.com/Silver4sh/mini_projects/blob/main/mini-progam/mini_games/guess_number/guess_number.py <br>
+
+- Hang Man: <br>
+https://github.com/Silver4sh/mini_projects/blob/main/mini-progam/mini_games/hang_man/hang_man.py <br>
+
+- Rock Paper Scissor: <br>
+https://github.com/Silver4sh/mini_projects/tree/main/mini-progam/mini_games/rock_paper_scissor <br>
+
+- Rolling Dice: <br>
+https://github.com/Silver4sh/mini_projects/blob/main/mini-progam/mini_games/rolling_dice/rolling_dice.py <br>
 
 <h2 align='center'>
 How to run:</h2><br>
-<p>Just run mini_game.py</p>
+<p>Just run "mini_game.py" to play.</p>
