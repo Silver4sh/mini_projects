@@ -1,19 +1,21 @@
 <h3 align="center">Berikut adalah data dan script pengolahan data mengenai data covid di dunia dari tahun 2020 hingga 2022. </h3>
 
-<p> Here for raw-data: https://github.com/Silver4sh/mini-project/tree/main/data-analysis/covid/data</p>
-<p> Here for scripts: https://github.com/Silver4sh/mini-project/tree/main/data-analysis/covid/script</p>
-<p> Here for result: https://github.com/Silver4sh/mini-project/tree/main/data-analysis/covid/result</p>
+- Here for raw data: <br>
+https://github.com/Silver4sh/mini_projects/tree/main/data-analysis/covid/raw_data <br>
 
-<br>
-<br>
+- Here for scripts: <br>
+https://github.com/Silver4sh/mini_projects/blob/main/data-analysis/covid/script/covid.ipynb <br>
 
-<p>Sample pict:</p>
+- Here for result:
+https://github.com/Silver4sh/mini_projects/tree/main/data-analysis/covid/result <br>
 
-1. Covid Case, Death and Population by Continent <br>
-![pict1]( https://github.com/Silver4sh/mini-project/blob/main/data-analysis/covid/pict/Pict%201.png)
 
-2. Covid Case and Deaths by Continent <br>
-![pict2]( https://github.com/Silver4sh/mini-project/blob/main/data-analysis/covid/pict/pick%202.png)
+- Sample picture:
+    > Covid case, Death and Population by Continent: <br>
+    ![pict1](https://github.com/Silver4sh/mini_projects/blob/main/data-analysis/covid/pict/Pict%201.png) <br>
 
-3. Covid Case by Location <br>
-![pict3]( https://github.com/Silver4sh/mini-project/blob/main/data-analysis/covid/pict/pick%203.png)
+    > Covid case and Deaths by Continent: <br>
+    ![pict1](https://github.com/Silver4sh/mini_projects/blob/main/data-analysis/covid/pict/pick%202.png) <br>
+
+    > Covid case by Location: <br>
+    ![pict1](https://github.com/Silver4sh/mini_projects/blob/main/data-analysis/covid/pict/pick%203.png) <br>
