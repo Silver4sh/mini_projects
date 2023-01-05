@@ -26,6 +26,5 @@
             https://github.com/Silver4sh/mini_projects/tree/main/mini-progam/mini_apps/movie_tubi <br>
 
       - Mini Program: <br>
-        * Mini Games: <br>
-        Link: https://github.com/Silver4sh/mini_projects/tree/main/mini-progam/mini_games <br>
-            > Guess Number, Hang Man, Rock Paper Scissor, Rolling Dice
+        * Mini Games: <br>https://github.com/Silver4sh/mini_projects/tree/main/mini-progam/mini_games <br>
+            > List Game: Guess Number, Hang Man, Rock Paper Scissor, Rolling Dice
