@@ -7,8 +7,7 @@ https://github.com/Silver4sh/mini_projects/tree/main/data-analysis/covid/raw_dat
 https://github.com/Silver4sh/mini_projects/blob/main/data-analysis/covid/script/covid.ipynb <br>
 
 - Here for result:
-https://github.com/Silver4sh/mini_projects/tree/main/data-analysis/covid/result <br>
-
+https://github.com/Silver4sh/mini_projects/tree/main/data-analysis/covid/result <br> <br> <br> <br>
 
 - Sample picture:
     > Covid case, Death and Population by Continent: <br>
